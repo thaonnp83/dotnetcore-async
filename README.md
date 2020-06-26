@@ -1,2 +1,2 @@
 # dotnetcore-async
-study asynchronous function in botnet core
+study asynchronous function in dotnet core
